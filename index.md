@@ -27,3 +27,9 @@ var myVar = "Hello, world!";
 ``` dart
 const String myVar = "Hello, world!";
 ```
+
+# Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
