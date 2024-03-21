@@ -10,3 +10,6 @@ Testo
 Testo
 ###### Header 6
 Testo
+
+# Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
