@@ -13,3 +13,17 @@ Testo
 
 # Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code
+### esempio di codice generico
+```
+$ git init
+```
+### esempio di codice javascript
+``` javascript
+var myVar = "Hello, world!";
+```
+### esempio di codice dart
+``` dart
+const String myVar = "Hello, world!";
+```
